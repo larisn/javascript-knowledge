@@ -1,2 +1,2 @@
-# Curso-JavaScript
-Exercícios e anotações do curso de JavaScript do Curso em Vídeo
+# Javascript Knowledge
+Projetos básicos e exercícios voltados para o início do meu aprendizado em JavaScript.
