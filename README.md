@@ -1,2 +1,2 @@
 # Javascript Knowledge
-Projetos básicos e exercícios voltados para o meu aprendizado em JavaScript.
+Projetos básicos e exercícios de cursos e plataformas diferentes voltados para o início meu aprendizado em JavaScript.
